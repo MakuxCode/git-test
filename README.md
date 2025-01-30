@@ -1,5 +1,9 @@
-# This is a heading
+# Startet Web Project
 
-## This is a subheading
+## Introduction
 
-* This is a bullet point
+## Purpose 
+
+## Deployment
+
+## How to Contribute
