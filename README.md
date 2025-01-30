@@ -1,6 +1,11 @@
 # Starter Web Project
 
+<<<<<<< HEAD
 This is a simple website project for shoowing how to use Git and Github together. This is an edited file of the master branch.
+=======
+This is a simple website project for shoowing how to use Git and Github together.
+Adding a line for rebasing sample.
+>>>>>>> b8c4f6d (Added some text in README)
 
 ## Introduction
 
