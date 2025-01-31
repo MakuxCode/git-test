@@ -3,3 +3,5 @@ This is a sample text file
 Added another line in sample text file.
 
 Added another line
+
+Another line for comparing tags
