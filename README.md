@@ -16,3 +16,5 @@ This is a sample on how to deploy a web application.
 
 ## How to Contribute
 This shows how to contribute to this project. Fork this repository and then issue Pull Requests for review.
+
+## Copyright
