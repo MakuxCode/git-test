@@ -2,6 +2,8 @@
 
 This is a simple website project for shoowing how to use Git and Github together. This is an edited file of the master branch.
 
+Updates from dev1
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using a web project.
